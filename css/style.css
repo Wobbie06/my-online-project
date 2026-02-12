@@ -1,0 +1,16 @@
+h1{
+color: blueviolet;
+
+}
+h2{
+color: yellow;
+
+}
+body {
+    background-color: turquoise;
+    background-image: url(https://tse3.mm.bing.net/th/id/OIP.Q70dIIDjwvJWskmsgABiHwHaE8?rs=1&pid=ImgDetMain&o=7&rm=3);
+}
+#frikandel {
+   border: 100px dashed purple
+ border-color: blue;   
+}
